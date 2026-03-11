@@ -1,0 +1,23 @@
+/* static/css/style.css */
+body {
+    background-color: #fff0f5; /* Un rosa lavanda muy suave */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #4a4a4a;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #ffb7ce; /* Rosa pastel para los títulos */
+    text-shadow: 1px 1px 2px #ddd;
+    text-align: center;
+}
+
+.contenedor {
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    max-width: 800px;
+    margin: 0 auto;
+}
